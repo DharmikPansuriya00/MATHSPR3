@@ -1,0 +1,26 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,cholesterol_level,glucose_level,diabetes,hypertension,visit_date
+R001,18-25,22,62,Male,North,Non-Smoker,Daily,21.5,118,170,88,False,False,2025-01-12
+R002,26-35,31,78,Female,South,Former Smoker,Weekly,26.2,130,210,110,True,True,2025-02-05
+R003,36-45,40,85,Male,East,Smoker,Rarely,29.4,145,240,130,True,True,2025-02-18
+R004,46-60,52,72,Female,West,Non-Smoker,Weekly,25.1,135,220,105,True,True,2025-03-01
+R005,60+,67,68,Male,North,Former Smoker,Never,27.8,150,260,140,True,True,2025-03-10
+R006,18-25,24,55,Female,South,Non-Smoker,Daily,20.3,115,165,85,False,False,2025-01-20
+R007,26-35,29,90,Male,East,Smoker,Weekly,30.5,142,250,120,True,True,2025-02-25
+R008,36-45,38,70,Female,West,Non-Smoker,Rarely,24.6,128,195,95,False,True,2025-03-05
+R009,46-60,58,88,Male,North,Smoker,Never,31.2,160,275,155,True,True,2025-03-12
+R010,60+,63,60,Female,South,Former Smoker,Rarely,23.4,138,215,100,False,True,2025-01-28
+R011,18-25,23,75,Male,East,Non-Smoker,Daily,24.0,120,180,90,False,False,2025-02-02
+R012,26-35,34,82,Female,West,Smoker,Weekly,28.3,140,230,125,True,True,2025-02-10
+R013,36-45,44,77,Male,North,Former Smoker,Rarely,26.7,132,205,108,True,True,2025-03-03
+R014,46-60,50,69,Female,South,Non-Smoker,Weekly,24.8,126,190,92,False,False,2025-03-07
+R015,60+,72,73,Male,East,Smoker,Never,29.9,155,270,150,True,True,2025-03-14
+R016,18-25,21,58,Female,West,Non-Smoker,Daily,19.9,110,160,82,False,False,2025-01-15
+R017,26-35,30,95,Male,North,Smoker,Rarely,32.1,148,255,135,True,True,2025-02-20
+R018,36-45,39,68,Female,South,Former Smoker,Weekly,23.9,125,185,94,False,False,2025-02-27
+R019,46-60,55,80,Male,East,Non-Smoker,Rarely,27.0,138,215,102,True,True,2025-03-06
+R020,60+,65,74,Female,West,Smoker,Never,28.5,152,260,145,True,True,2025-03-15
+R021,18-25,25,66,Male,South,Non-Smoker,Daily,22.1,117,175,89,False,False,2025-01-22
+R022,26-35,33,79,Female,East,Former Smoker,Weekly,26.5,133,210,109,True,True,2025-02-12
+R023,36-45,41,92,Male,West,Smoker,Rarely,30.7,150,245,132,True,True,2025-03-04
+R024,46-60,49,71,Female,North,Non-Smoker,Weekly,24.9,129,200,96,False,True,2025-03-09
+R025,60+,70,85,Male,South,Former Smoker,Never,30.2,158,280,160,True,True,2025-03-16
